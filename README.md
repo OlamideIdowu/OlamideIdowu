@@ -1,5 +1,5 @@
 # **Olamide Idowu**  
-####  Data Scientist | Machine Learning Engineer   
+####  Data Scientist 
 🌐 www.datascienceportfol.io/Idowu0lamide | 📧 idowuolamide580@gmail.com | 📱 07026155404  
 Enthusiastic Data Scientist and Machine Learning Engineer with a passion for research and transforming data into actionable insights. 
 

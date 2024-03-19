@@ -1,6 +1,6 @@
 # **Olamide Idowu**  
 ####  Data Scientist 
-🌐 www.datascienceportfol.io/Idowu0lamide | 📧 idowuolamide580@gmail.com
+🌐 www.datascienceportfol.io/Idowu0lamide | 📧 idowuolamide580@gmail.com | https://www.linkedin.com/in/idowuolamide/
 Enthusiastic Data Scientist with a passion for research and transforming data into actionable insights. 
 
 <!---

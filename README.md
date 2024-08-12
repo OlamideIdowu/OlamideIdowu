@@ -1,5 +1,5 @@
 # **Olamide Idowu**  
-####  Data Scientist 
+####  Data Scientist || ML Engineer
 📧 idowuolamide580@gmail.com | https://www.linkedin.com/in/idowuolamide/
 
 <!---
